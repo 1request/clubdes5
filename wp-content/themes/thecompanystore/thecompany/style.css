@@ -620,14 +620,14 @@ footer .mainnav ul.menu > li > a {
 	display: table-cell;
 	vertical-align: middle;
 	padding: 0 11px 0 0;
-	font-size: 12px;
+	font-size: 15px;
 }
 #socialicons a.socialicon {
 	display: table-cell;
 	vertical-align: middle;
 	margin: 0;
-	height: 20px;
-	width: 31px;
+	height: 35px;
+	width: 48px;
 }
 #socialicons .socialicon img {
 	-moz-transition: all .1s ease-in;
@@ -635,8 +635,8 @@ footer .mainnav ul.menu > li > a {
     -webkit-transition: all .1s ease-in;
 	transition: all .1s ease-in;
 	opacity: 1;
-	height: 20px;
-	width: 20px;
+	height: 40px;
+	width: 40px;
 	margin: 0;
 	display: inline-block;
 	backface-visibility: hidden;
